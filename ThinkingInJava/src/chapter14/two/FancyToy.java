@@ -1,4 +1,4 @@
-package chapter9.two;
+package chapter14.two;
 
 public class FancyToy extends Toy implements HasBatteries, Waterproof, Shoots {
 
